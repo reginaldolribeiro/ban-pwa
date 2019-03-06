@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "Ban App",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -10,6 +10,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#7159C1",
+  "background_color": "#7159C1"
 }
